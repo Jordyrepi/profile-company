@@ -10,9 +10,6 @@ const ProductsTesti = () => {
                 <p className='mt-2 mx-auto w-6/7 '>
                     We provide several services for you so you can develop your business and company
                 </p>
-                <Link href="../products">
-                <button className='bg-[#1D7373] hover:bg-[#5EC0B1] py-1 px-3 rounded-lg mt-3'>More Products</button>
-                </Link>
             </div>
             <div className='mt-6'>
                 <div className="grid md:grid-cols-2 grid-cols-1 md:gap-2 lg:ml-[200px]">
